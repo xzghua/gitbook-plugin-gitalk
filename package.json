@@ -112,5 +112,8 @@
   "bugs": {
     "url": "https://github.com/xzghua/gitbook-plugin-gitalk/issues"
   },
-  "homepage": "https://github.com/xzghua/gitbook-plugin-gitalk#readme"
+  "homepage": "https://github.com/xzghua/gitbook-plugin-gitalk#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
