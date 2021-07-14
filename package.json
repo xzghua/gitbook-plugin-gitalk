@@ -1,8 +1,8 @@
 {
   "name": "gitbook-plugin-gitalks",
   "main": "index.js",
-  "version": "0.0.1",
-  "description": "gitalk is a gitbook comment plugin based on gitalk",
+  "version": "0.0.2",
+  "description": "gitalks is a gitbook comment plugin based on gitalk",
   "engines": {
     "gitbook": ">=2.4.3"
   },
