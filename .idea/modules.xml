@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gitbook-plugin-gitalk.iml" filepath="$PROJECT_DIR$/.idea/gitbook-plugin-gitalk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gitbook-plugin-gitalks/.idea/gitbook-plugin-gitalks.iml" filepath="$PROJECT_DIR$/../gitbook-plugin-gitalks/.idea/gitbook-plugin-gitalks.iml" />
     </modules>
   </component>
 </project>

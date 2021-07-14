@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-gitalk",
+  "name": "gitbook-plugin-gitalks",
   "main": "index.js",
   "version": "0.0.1",
   "description": "gitalk is a gitbook comment plugin based on gitalk",
@@ -95,7 +95,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xzghua/gitbook-plugin-gitalk.git"
+    "url": "git+https://github.com/xzghua/gitbook-plugin-gitalks.git"
   },
   "keywords": [
     "gitbook-plugin-gitalk",
@@ -110,10 +110,7 @@
   "author": "xzghua",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xzghua/gitbook-plugin-gitalk/issues"
+    "url": "https://github.com/xzghua/gitbook-plugin-gitalks/issues"
   },
-  "homepage": "https://github.com/xzghua/gitbook-plugin-gitalk#readme",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/xzghua/gitbook-plugin-gitalks#readme"
 }
