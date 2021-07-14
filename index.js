@@ -16,7 +16,7 @@ module.exports = {
         "init": function() {
             this.log.debug.ln('init', this.options.pluginsConfig.mygitalk);
 
-            mygitalkConfig = this.options.pluginsConfig["mygitalk"];
+            mygitalkConfig = this.options.pluginsConfig["gitalk"];
         },
         "page:before": function(page) {
             this.log.debug.ln('page:before', page.content);

@@ -98,8 +98,7 @@
     "url": "git+https://github.com/xzghua/gitbook-plugin-gitalk.git"
   },
   "keywords": [
-    "gitbook-plugin-mygitalk",
-    "mygitalk",
+    "gitbook-plugin-gitalk",
     "gitalk",
     "gitment",
     "discuss",
