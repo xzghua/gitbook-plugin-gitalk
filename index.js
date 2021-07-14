@@ -14,9 +14,9 @@ module.exports = {
     },
     hooks: {
         "init": function() {
-            this.log.debug.ln('init', this.options.pluginsConfig.mygitalk);
+            this.log.debug.ln('init', this.options.pluginsConfig.gitalks);
 
-            mygitalkConfig = this.options.pluginsConfig["gitalk"];
+            mygitalkConfig = this.options.pluginsConfig["gitalks"];
         },
         "page:before": function(page) {
             this.log.debug.ln('page:before', page.content);
