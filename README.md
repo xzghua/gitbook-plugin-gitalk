@@ -1,5 +1,8 @@
 ## gitbook-plugin-gitalks
 
+[![npm:download](https://img.shields.io/npm/dt/gitbook-plugin-gitalks.svg)](https://www.npmjs.com/package/gitbook-plugin-gitalks)
+
+
 - 之前一直用那个最高下载的,但是我拉他的插件总是报错..
 
 ```
