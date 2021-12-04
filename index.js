@@ -4,11 +4,11 @@ module.exports = {
     book: {
         assets: "./assets",
         css: [
-            "https://unpkg.com/gitalk/dist/gitalk.css",
+            "https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css",
         ],
         js: [
             "https://cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js",
-            "https://unpkg.com/gitalk/dist/gitalk.min.js",
+            "https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js",
             "mygitalk.js"
         ]
     },
